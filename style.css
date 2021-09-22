@@ -1,0 +1,46 @@
+#zone{
+    border: 5px solid rgb(0, 0, 0);
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+#dropzone{
+    text-align: center;
+    border: 5px solid rgb(254, 1, 1);
+    height: 240px;
+    width: 290px;
+}
+
+#btn_submit{
+    background-color: rgb(200, 250, 200);
+    font-size: 25px;
+    font-style: italic;
+    height: 50px;
+    width: 300px;
+    font-weight: bold;
+}
+
+#upload_file{
+    margin-top: 80px;
+    width: 80px;
+    height: 80px;
+    background-image: url('upload.jpg');
+    cursor: pointer;
+}
+
+/* This part is for flash notification */
+
+.flash{
+    position: relative;
+    float: right;
+    margin-top: -480px;
+    border-radius: 5px;
+    height: 70px;
+    width: 500px;
+    background-color: blue;
+    color: white;
+    z-index: 252827129;
+}
