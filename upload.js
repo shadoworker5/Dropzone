@@ -2,7 +2,7 @@
  * Librairie de gestion d'upload de fichier avec JavaScript
  * Version: 1.0
  * Auteur: Kassoum TRAORE
- * E-mail: kassoumtraore755@gmail.com
+ * E-mail: shadoworker5.dev@gmail.com
  * Date: 15/06/2020
 */
 
